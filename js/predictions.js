@@ -1,0 +1,1 @@
+window.PREDICTIONS=[{"id":"demo-1","date":"2026-09-29","sport":"Football","match":"Team A vs Team B","prediction":"Over 2.5","odds":"1.80","result":"NOT RESULTED"}];
